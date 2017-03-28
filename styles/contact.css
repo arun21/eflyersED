@@ -1,0 +1,17 @@
+h2{
+	color:blue;
+}
+
+aside{
+	float: right;
+	max-width:500px;
+}
+
+main{
+	float:left;
+	max-width:400px;
+}
+
+i {
+	font-size:30px;
+}

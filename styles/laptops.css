@@ -1,0 +1,25 @@
+.laptops {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 80px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 80px; /* Firefox */
+    column-gap: 80px;
+    -webkit-column-rule: 1px solid lightblue; /* Chrome, Safari, Opera */
+    -moz-column-rule: 1px solid lightblue; /* Firefox */
+    column-rule: 2px solid black;
+	margin-top:30px;
+	color:blue;
+}
+
+h2 {
+    -webkit-column-span: all; /* Chrome, Safari, Opera */
+    column-span: all;
+	color:red;
+	margin-bottom:30px;
+}
+
+p{
+	color:#22293b;
+	font-weight:bold;
+}
